@@ -1,10 +1,10 @@
 {
   "plan": "Free",
   "period": "weekly",
-  "used_percent": 29,
-  "remaining_percent": 71,
+  "used_percent": 31,
+  "remaining_percent": 69,
   "resets_at": "2026-11-23T15:25:00+09:00",
   "resets_display": "11/23 周一 15:25",
-  "updated_at": "2026-11-20T16:02:12+09:00",
-  "updated_display": "11/20 16:02"
+  "updated_at": "2026-11-21T16:02:12+09:00",
+  "updated_display": "11/21 16:02"
 }
